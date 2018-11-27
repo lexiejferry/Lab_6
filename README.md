@@ -1,5 +1,4 @@
 # Lab 6
-
 <p>@Author: Lexie Ferry
 @Date:   2018-11-26T09:47:43-05:00
   
@@ -43,12 +42,12 @@
 <p><strong>Part 2</strong></p>
 <p>For my analysis, I chose to look at life expectancy in Baltimore.</p>
 <p><strong>Significance Map: Life Expectancy</strong>
-<img title="Life Expectancy Map: Significane" alt="Life Expectancy Map: Significance" src="https://raw.githubusercontent.com/lexiejferry/Lab_6/master/Significance_lifeEx.PNG"></p>
+<img title="Life Expectancy Map: Significance" alt="Life Expectancy Map: Significance" src="https://raw.githubusercontent.com/lexiejferry/Lab_6/master/Significance_lifeEx.PNG"></p>
 <p><strong>Cluster Map: Life Expectancy</strong>
 <img title="Life Expectancy Map: Cluster" alt="Life Expectancy Map: Cluster" src="https://raw.githubusercontent.com/lexiejferry/Lab_6/master/Cluster_lifeEx.PNG"></p>
 <p>These maps shows a cluster of higher life expectancy in the northern and northwestern part of Baltimore, while there is a cluster of lower life expectancy in the central-western area of the city. There is one spatial outlier in the very center of the city that shows high life expectancy despite being surrounded by lower life expectancies.</p>
 <p><strong>Part 3</strong></p>
-<p>For my analysis I chose to look at how the number of children tested for elevated blood levels relates to life expectancy. It is important to note that the number of chrildren tested doesn't nessesarily mean that the result was elevated blood levels, just that there was a test done.</p>
+<p>For my analysis I chose to look at how the number of children tested for elevated blood levels relates to life expectancy. It is important to note that the number of children tested doesn't necessarily mean that the result was elevated blood levels, just that there was a test done.</p>
 <p><strong>A fancy bubble chart</strong></p>
 <p><img title="Bubble Chart: Life Expectancy versus number of lead tests in children" alt="Bubble Chart: Life Expectancy versus number of lead tests in children" src="https://raw.githubusercontent.com/lexiejferry/Lab_6/master/bubble_map.PNG"></p>
 <p>We can see by this bubble chart that as the number of lead tests go up, generally speaking the life expectancy goes down.</p>
