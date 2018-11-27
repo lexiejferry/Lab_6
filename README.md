@@ -2,10 +2,13 @@
 
 <p>@Author: Lexie Ferry
 @Date:   2018-11-26T09:47:43-05:00
+  
 @Email:  <a href="mailto:lexiejferry@gmail.com">lexiejferry@gmail.com</a>
+
 @Project: Lab 6
+
 @Last modified by:   Lexie Ferry
-@Last modified time: 2018-11-26T09:47:43-05:00</p>
+
 <p><strong>Part 1</strong></p>
 <p>Here are the maps from part one. I will try to put them in the order they were in the instructions.</p>
 <p><img title="First Map" alt="Regular Map" src="https://raw.githubusercontent.com/lexiejferry/Lab_6/master/reg_map.PNG">
